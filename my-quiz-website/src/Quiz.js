@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import quizData from "./quizData";
+import awsLogo from "./image/aws-icon-2048x2048-ptyrjxdo.png"; // Đường dẫn tới hình ảnh của bạn
 
 function Quiz() {
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -33,6 +34,17 @@ function Quiz() {
 
   return (
     <div className="quiz">
+      <img
+        src={awsLogo}
+        alt="Quiz Image"
+        style={{
+          width: "100%",
+          maxWidth: "150px",
+          marginBottom: "30px",
+          marginTop: "0px",
+        }}
+      />
+
       {showScore ? (
         <div className="score-section">
           You scored {score} out of {quizData.length}
@@ -43,7 +55,14 @@ function Quiz() {
             <div className="question-count">
               <span>Question {currentQuestion + 1}</span>/{quizData.length}
             </div>
-            <div className="question-text">
+            <div
+              className="question-text"
+              style={{
+                margin: "20px",
+
+                fontSize: "2rem",
+              }}
+            >
               {quizData[currentQuestion].question}
             </div>
           </div>
@@ -53,6 +72,10 @@ function Quiz() {
                 onClick={() => handleAnswerOptionClick(option)}
                 key={option}
                 style={{
+                  margin: "30px",
+                  padding: "20px",
+                  borderRadius: "15px",
+                  cursor: "pointer",
                   backgroundColor:
                     selectedAnswer === option
                       ? isCorrect

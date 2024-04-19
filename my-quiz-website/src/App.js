@@ -38,7 +38,18 @@ function App() {
                   fontSize: "0.8rem",
                   padding: "5px 10px",
                   marginTop: "20px",
+                  borderRadius: "5px",
+                  backgroundColor: "red",
+                  border: "none",
+                  color: "white",
+                  transition: "background-color 0.3s ease", // Added transition for smooth hover effect
+                  cursor: "pointer", // Change cursor on hover
                 }}
+                // Define hover styles using pseudo-class ":hover"
+                // This will change the background color when hovering over the button
+                // You can adjust the hover styles as needed
+                // For example, change background color, add shadow, etc.
+                className="sign-out-button"
               >
                 Sign Out
               </button>

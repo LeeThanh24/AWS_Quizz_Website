@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+.sign-out-button:hover {
+  background-color: white;
+  /* Add additional styles for hover effect */
+}
