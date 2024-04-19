@@ -1,5 +1,10 @@
 const quizData = [
   {
+    question: "What was the pet that Thanh love most",
+    options: ["Cat", "Dog", "Bird", "Fish"],
+    answer: "Cat",
+  },
+  {
     question: "What was the first video game ever made?",
     options: ["Pong", "Spacewar!", "Tetris", "Computer Space"],
     answer: "Spacewar!",
