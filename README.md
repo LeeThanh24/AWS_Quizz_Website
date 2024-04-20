@@ -1,23 +1,4 @@
-<h1 align="center"> GitPoint </h1> <br>
-<p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
-  </a>
-</p>
-
-<p align="center">
-  GitHub in your pocket. Built with React Native.
-</p>
-
-<p align="center">
-  <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
-    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
-  </a>
-
-  <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
-    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
-  </a>
-</p>
+<h1 align="center"> AWS Quizz Website </h1> <br>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -25,12 +6,10 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
-- [Acknowledgments](#acknowledgments)
+- [How to install](#build-process)
+
+
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -43,13 +22,14 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
 
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
+Welcome to our AWS Quiz Website designed to help you learn and prepare for the AWS Certified Cloud Practitioner exam. Whether you're new to cloud computing or looking to validate your AWS knowledge, our platform is here to guide you through essential concepts and assess your understanding through interactive quizzes..
 
-**Available for both iOS and Android.**
+**Demo website**
 
 <p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+  ![image](https://github.com/LeeThanh24/AWS_Quizz_Website/assets/94585743/3a85b170-fc54-40f4-b37a-a120b227466c)
 </p>
+
 
 ## Features
 
