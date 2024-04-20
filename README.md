@@ -1,17 +1,10 @@
-<h1 align="center"> AWS Quizz Website </h1> <br>
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Facebook][facebook-shield]][facebook-url]
-[![Gmail][gmail-shield]][gmail-url]
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
 - [How to build](#build-process)
-
+- [Deployment](#deployment)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -97,3 +90,8 @@ A few of the things you can do with the website:
 [gmail-url]: thanhxuandaole@gmail.com
 [facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [facebook-url]: https://www.facebook.com/profile.php?id=100011028031588
+
+## Deployment
+The website is hosted 
+
+`https://main.d2vcntdbakh6a7.amplifyapp.com/`
