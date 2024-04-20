@@ -18,8 +18,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Facebook][contributors-shield]][contributors-url]
-[![Email][forks-shield]][forks-url]
+[![Facebook][linkedin-shield][facebook-url]
+[![Email][linkedin-shield][email-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -221,10 +221,13 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/leethanh24/
+[facebook-url]: [https://www.linkedin.com/in/leethanh24/](https://www.facebook.com/profile.php?id=100011028031588)
+[email-url]: thanhxuandaole@gmail.com
 [Cognito]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [Cognito-url]: https://aws.amazon.com/pm/cognito/?gclid=CjwKCAjwrIixBhBbEiwACEqDJRFgxS6kjbYUYeamnkbF0CU8C9lKk2RnUARh-sIk9W6C5dFltHLi1xoCo7cQAvD_BwE&trk=f30f83fb-9c61-4f1e-b44b-2924dc93ec8d&sc_channel=ps&ef_id=CjwKCAjwrIixBhBbEiwACEqDJRFgxS6kjbYUYeamnkbF0CU8C9lKk2RnUARh-sIk9W6C5dFltHLi1xoCo7cQAvD_BwE:G:s&s_kwcid=AL!4422!3!651510255306!e!!g!!cognito!19828212708!153893110024
 [Amplify]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [Amplify-url]: https://aws.amazon.com/amplify/?gclid=CjwKCAjwrIixBhBbEiwACEqDJcbi0Veb6Cve_zKpMBOy_YYIfwmmzmh7k1yxJSkQj1csYHanLblKKxoCWLUQAvD_BwE&trk=27a2247d-3723-4d60-96c5-ac1d66981aa2&sc_channel=ps&ef_id=CjwKCAjwrIixBhBbEiwACEqDJcbi0Veb6Cve_zKpMBOy_YYIfwmmzmh7k1yxJSkQj1csYHanLblKKxoCWLUQAvD_BwE:G:s&s_kwcid=AL!4422!3!647301910288!e!!g!!aws%20amplify!19621316587!146396661300
+
 [product-screenshot]: images/screenshot.png
 
 
