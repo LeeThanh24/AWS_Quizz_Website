@@ -27,9 +27,9 @@ Welcome to our AWS Quiz Website designed to help you learn and prepare for the A
 **Demo website**
 
 <p align="center">
-  ![image](https://github.com/LeeThanh24/AWS_Quizz_Website/assets/94585743/3a85b170-fc54-40f4-b37a-a120b227466c)
+  
 </p>
-
+![image](https://github.com/LeeThanh24/AWS_Quizz_Website/assets/94585743/3a85b170-fc54-40f4-b37a-a120b227466c)
 
 ## Features
 
