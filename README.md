@@ -23,47 +23,34 @@
 [![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
 
 Welcome to our AWS Quiz Website designed to help you learn and prepare for the AWS Certified Cloud Practitioner exam. Whether you're new to cloud computing or looking to validate your AWS knowledge, our platform is here to guide you through essential concepts and assess your understanding through interactive quizzes..
+**Why AWS Certified Cloud Practitioner?**
 
-**Demo website**
+Becoming an AWS Certified Cloud Practitioner is the first step towards building a successful career in cloud computing. This entry-level certification is designed for individuals with no prior AWS experience and provides a foundational understanding of AWS cloud services, architecture, security, and pricing models.
 
-<p align="center">
-  
-</p>
-![image](https://github.com/LeeThanh24/AWS_Quizz_Website/assets/94585743/3a85b170-fc54-40f4-b37a-a120b227466c)
 
 ## Features
 
-A few of the things you can do with GitPoint:
+A few of the things you can do with the website:
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+**How Our Quiz Website Can Help**:
+*Login and Logout Features: To personalize your learning experience, our platform allows you to create an account and log in. This feature enables you to track your progress, save quiz results, and revisit topics you want to focus on. When you're done studying, simply log out to secure your account.
+*Interactive Quizzes: Our platform offers a variety of quizzes covering key topics such as AWS services, security, compute, and more. Each quiz is designed to test your knowledge and reinforce important concepts.
+*Realistic Exam Simulation: Practice makes perfect! We provide quizzes that simulate the format and difficulty level of the AWS Certified Cloud Practitioner exam, helping you get comfortable with the exam environment.
+*Instant Feedback: Receive instant feedback on your quiz answers, including explanations for correct and incorrect choices. This feedback is valuable for learning and improving your understanding of AWS concepts.
+*Track Your Progress: Monitor your progress as you work through quizzes. Track your scores, identify areas for improvement, and focus on mastering the topics that matter most for the certification exam.
+
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
+  ![aws demo login](https://github.com/LeeThanh24/AWS_Quizz_Website/assets/94585743/99aece83-253e-4325-8ecd-d920e2d32fb6)
 </p>
 
 <p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
+  ![aws demo website](https://github.com/LeeThanh24/AWS_Quizz_Website/assets/94585743/3a85b170-fc54-40f4-b37a-a120b227466c)
 </p>
 
-## Feedback
 
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
 
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
-
-## Contributors
-
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
-
-## Build Process
+## How to install
 
 - Follow the [React Native Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
 - Clone or download the repo
@@ -75,28 +62,3 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a detailed process on how to build your application as well as troubleshooting information.
 
 **Development Keys**: The `CLIENT_ID` and `CLIENT_SECRET` in `api/index.js` are for development purposes and do not represent the actual application keys. Feel free to use them or use a new set of keys by creating an [OAuth application](https://github.com/settings/applications/new) of your own. Set the "Authorization callback URL" to `gitpoint://welcome`.
-
-## Backers [![Backers on Open Collective](https://opencollective.com/git-point/backers/badge.svg)](#backers)
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/git-point#backer)]
-
-<a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://opencollective.com/git-point/backers.svg?width=890"></a>
-
-## Sponsors [![Sponsors on Open Collective](https://opencollective.com/git-point/sponsors/badge.svg)](#sponsors)
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/git-point#sponsor)]
-
-<a href="https://opencollective.com/git-point/sponsor/0/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/1/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/2/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/3/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/4/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/5/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/6/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/7/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/8/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/9/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/9/avatar.svg"></a>
-
-## Acknowledgments
-
-Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
