@@ -3,9 +3,7 @@
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 [![Facebook][facebook-shield]][facebook-url]
-
 [![Gmail][gmail-shield]][gmail-url]
 
 ## Table of Contents
