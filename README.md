@@ -83,7 +83,8 @@ A few of the things you can do with the website:
 - `amplify push` to deploy the app to AWS Amplify
 - `npm start` to run your app on localhost
 
-  **Workflow** 
+  **Workflow**
+  
 ![image](https://github.com/LeeThanh24/AWS_Quizz_Website/assets/94585743/91723a40-8fe7-444b-91c0-d3c897b19dd6)
 
 
